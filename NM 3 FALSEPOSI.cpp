@@ -3,7 +3,7 @@
 #include<stdlib.h>
 using namespace std;
 
-#define f(x) 3*x*x-6*x+2
+#define f(x) cos(x)-x*exp(x)
 
 int main()
 {
